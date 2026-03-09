@@ -9,3 +9,5 @@ Netflix UI: A custom-themed interface built with bslib and CSS to mirror the rea
 Reactive Feedback: Displays dynamic messages and memes based on the prediction outcome.
 
 Clean Architecture: Organized with a dedicated www/ folder for optimized asset management.
+
+# live Demo: https://shubhra-mishra.shinyapps.io/netflix_customer_churn_prediction/
